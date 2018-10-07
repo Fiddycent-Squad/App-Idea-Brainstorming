@@ -24,26 +24,26 @@
 
 
 ## New App Ideas List
-1. Plant Identifier
-    a. Allows for the user to scan a plant with their camera from [take multiple pictures around most of the plant] and the app will tell the user based on the AI and database what kind of plant or flower that is.
-2. Netflix Social Suggestion
-    a. Creates a social forum to allow netflix users to suggest shows to each other based off of what they have already seen rather than be automatically generated.
-3. Color Checker
-    a. For users that are color blind, it could help them determine what color their clothes are (to get dressed in the morning) and help them with other issues as well.
-4. Food Frenzy
-    a.Can assist users in trying to figure out what they want to eat for the night by answering a small series of questions while playing a game a the same time. 
-5. Lock Box
-    a. This app can set digital physical locks and with certain encryption keep their digital locks hard to unlock except with the specific app that can unencrypt the locks. Useful for bikes, safes, etc.
-6. Safe Date
-    a.For users who go on alot of blind dates often, they can notify friends in their inner circle when they go so they are aware of how long they are gone and after a certain amount of time notify them again. 
-7. Key/Wallet Finder?
-    a. This app is a keychain/card and app combination that helps track down your keys wherever they might be located. Can also be implemented as a wallet finder with the credit card shaped version. Could work vice versa?? 
-8. Drive Safe
-    a.Keeps track of you driving and notifys you of tips and tricks to improve your driving. 
-9. Molecule Builder
-    a. Lets the user build any kind of molecule virtually and tells the user what molecule they've built, the common name, its stability how often its found in nature,  etc. etc.
-10. Dungeons and Dragons (Mobile)
-    a.Allows users to connect with friends to play a campaign of D&D but instead of all meeting at a designated time and place, they play from remote locations and take turns with one play of course being the Dungeon Master.
+1. **Plant Identifier**:
+     Allows for the user to scan a plant with their camera from [take multiple pictures around most of the plant] and the app will tell the user based on the AI and database what kind of plant or flower that is.
+2. **Netflix Social Suggestion**:
+     Creates a social forum to allow netflix users to suggest shows to each other based off of what they have already seen rather than be automatically generated.
+3. **Color Checker**:
+     For users that are color blind, it could help them determine what color their clothes are (to get dressed in the morning) and help them with other issues as well.
+4. **Food Frenzy**:
+     Can assist users in trying to figure out what they want to eat for the night by answering a small series of questions while playing a game a the same time. 
+5. **Lock Box**:
+     This app can set digital physical locks and with certain encryption keep their digital locks hard to unlock except with the specific app that can unencrypt the locks. Useful for bikes, safes, etc.
+6. **Safe Date**:
+     For users who go on alot of blind dates often, they can notify friends in their inner circle when they go so they are aware of how long they are gone and after a certain amount of time notify them again. 
+7. **Key/Wallet Finder**:
+     This app is a keychain/card and app combination that helps track down your keys wherever they might be located. Can also be implemented as a wallet finder with the credit card shaped version. Could work vice versa. 
+8. **Drive Safe**:
+     Keeps track of your driving and notifys you of tips and tricks to improve your driving. 
+9. **Molecule Builder**:
+     Lets the user build any kind of molecule virtually and tells the user what molecule they've built, the common name, its stability how often its found in nature,  etc. etc.
+10. **Dungeons and Dragons (Mobile)**:
+     Allows users to connect with friends to play a campaign of D&D but instead of all meeting at a designated time and place, they play from remote locations and take turns with one play of course being the Dungeon Master.
 
 ## Top 3 New App Ideas
 1. Color Checker
